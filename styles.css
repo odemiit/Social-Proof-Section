@@ -1,11 +1,17 @@
 body {
     font-family: 'Spartan', sans-serif;
     margin: 8rem 5rem;
+    font-size: 15px;
 }
 
 h1 {
     font-weight: 700;
     color: hsl(300, 43%, 22%);
+}
+
+/* Testimonial */
+.testimonial-heading {
+    font-weight: bold;
 }
 
 .attribution {
