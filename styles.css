@@ -1,7 +1,18 @@
+body {
+    font-family: 'Spartan', sans-serif;
+    margin: 8rem 5rem;
+}
+
+h1 {
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
-  }
-  .attribution a {
+}
+
+.attribution a {
     color: hsl(228, 45%, 44%);
-  }
+}
