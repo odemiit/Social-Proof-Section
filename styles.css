@@ -9,6 +9,24 @@ h1 {
     color: hsl(300, 43%, 22%);
 }
 
+/* Heading */
+.heading {
+    position: relative;
+}
+
+.big-heading {
+    position: absolute;
+    left: 8rem;
+    top: 7rem;
+}
+
+.heading-description {
+    position: absolute;
+    top: 13rem;
+    left: 8rem;
+    line-height: 1.7;
+}
+
 /* Testimonial */
 .testimonial-heading {
     font-weight: bold;
