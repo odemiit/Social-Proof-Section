@@ -27,10 +27,19 @@ h1 {
     line-height: 1.7;
 }
 
+.heading-review {
+    background-color: hsl(300, 24%, 96%);
+    padding: 10px;
+    border: none;
+    margin: 10px;
+    border-radius: 10px;
+}
+
 /* Testimonial */
 .testimonial-heading {
     font-weight: bold;
 }
+
 
 .attribution {
     font-size: 11px;
